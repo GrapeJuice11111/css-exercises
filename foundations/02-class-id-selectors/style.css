@@ -1,0 +1,23 @@
+.list
+{
+background-color: #ffb6c1;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#one {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+
+.intersection{
+font-size: 24px;
+}
+
+#unique
+{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
