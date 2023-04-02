@@ -1,0 +1,13 @@
+.love,
+.hate{
+font-size: 28px;
+font-family: "Times New Roman",Helvetica sans-serif;
+}
+
+.love{
+    color: white;
+    background-color: black;
+}
+.hate{
+background-color: yellow;
+}
